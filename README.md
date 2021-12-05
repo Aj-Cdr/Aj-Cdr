@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN...
 - 📫 How to reach me @ Discord (Username WIFI#5333)...
 - 🤗 I love to hang out working on group projects... SO HIT ME UP WITH A COLAB
-- 🐍 First GitHub Project - Snake Game P5.JS
+- 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
 
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
