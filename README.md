@@ -5,6 +5,7 @@
  - 📫 How to reach me @ Discord (Username WIFI#5333)...
  - 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks
  - 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
+ - ☁ Built a Weather App Using React Native - beta works - optomized: false
 
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
