@@ -19,8 +19,8 @@ ________________________________________________________________________________
 <hr style="border:2px solid gray"> </hr>
 
 # 🔥 My Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SPABOI&show_icons=true&theme=dark" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SPABOI&show_icons=true&theme=dark" width="47% "/>
   
 <hr style="border:2px solid gray"> </hr>
 
