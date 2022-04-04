@@ -1,4 +1,4 @@
-_______________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
  # Hi, I’m Ajay <img src="https://user-images.githubusercontent.com/95515701/161590793-84b7436a-4045-4d73-9331-d164987ef7fe.gif" width="30px" height="30px">
  - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ...
  - 🌱 I’m currently learning JavaScript, HTML, CSS, React Native...
@@ -10,11 +10,12 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________________
 # 🛠 Languages And Tools:
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://github.com/SPABOI/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
 </div>
 <hr style="border:2px solid gray"> </hr>
 
