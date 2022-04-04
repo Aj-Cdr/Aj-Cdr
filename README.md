@@ -16,9 +16,14 @@ ________________________________________________________________________________
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<hr style="border:2px solid gray"> </hr>
+
 # 🔥 My Stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![](https://github.com/SPABOI/github-stats/blob/master/generated/overview.svg) ![](https://github.com/SPABOI/github-stats/blob/master/generated/languages.svg)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SPABOI&show_icons=true&theme=dark" />
+  
+<hr style="border:2px solid gray"> </hr>
+
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
