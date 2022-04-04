@@ -23,11 +23,9 @@ ________________________________________________________________________________
 <div style="flex-wrap:wrap">
  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=SPABOI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SPABOI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width="47% "/>
+ <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SPABOI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
   
 <hr style="border:2px solid gray"> </hr>
-</div>
-<!---
-SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="flex-wrap:wrap"><img src="https://komarev.com/ghpvc/?username=SPABOI" alt="Views"> <img src="https://img.shields.io/github/followers/SPABOI?label=Followers&style=social" alt="GitHub Badge"></div>
+<hr style="border:2px solid gray"> </hr>
