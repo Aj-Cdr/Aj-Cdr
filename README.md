@@ -1,5 +1,5 @@
 _______________________________________________________________________________________________________________________________________________________________________________
- # Hi, I’m Ajay <img src="https://user-images.githubusercontent.com/95515701/161590793-84b7436a-4045-4d73-9331-d164987ef7fe.gif" width="40px" height="40px">
+ # Hi, I’m Ajay <img src="https://user-images.githubusercontent.com/95515701/161590793-84b7436a-4045-4d73-9331-d164987ef7fe.gif" width="30px" height="30px">
  - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ...
  - 🌱 I’m currently learning JavaScript, HTML, CSS, React Native...
  - 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN...
@@ -18,8 +18,8 @@ ________________________________________________________________________________
 </div>
 _______________________________________________________________________________________________________________________________________________________________________________
 # My Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPABOI&theme=dark)](https://git.io/streak-stats)
-___________________________________________________________________________________________________________________________________________________________________________
+https://github-readme-streak-stats.herokuapp.com/?user=SPABOI&theme=dark
+_______________________________________________________________________________________________________________________________________________________________________________
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
