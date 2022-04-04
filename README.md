@@ -1,5 +1,5 @@
 _______________________________________________________________________________________________________________________________________________________________________________
- # Hi, I’m Ajay ![wave github gif](https://user-images.githubusercontent.com/95515701/161590793-84b7436a-4045-4d73-9331-d164987ef7fe.gif)
+ # Hi, I’m Ajay <img src="https://user-images.githubusercontent.com/95515701/161590793-84b7436a-4045-4d73-9331-d164987ef7fe.gif" width="40px" height="40px">
  - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ...
  - 🌱 I’m currently learning JavaScript, HTML, CSS, React Native...
  - 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN...
@@ -18,8 +18,7 @@ ________________________________________________________________________________
 </div>
 _______________________________________________________________________________________________________________________________________________________________________________
 # My Stats: 
-![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](https://github.com/SPABOI/github-stats/blob/master/generated/overview.svg), ![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](https://github.com/SPABOI/github-stats/blob/master/generated/languages.svg)
-[!](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPABOI&theme=dark)](https://git.io/streak-stats)
 ___________________________________________________________________________________________________________________________________________________________________________
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
