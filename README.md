@@ -18,8 +18,8 @@ ________________________________________________________________________________
 </div>
 _______________________________________________________________________________________________________________________________________________________________________________
 # My Stats: 
-![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](https://github.com/username/github-stats/blob/master/generated/overview.svg), ![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](https://github.com/username/github-stats/blob/master/generated/languages.svg)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+![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](https://github.com/SPABOI/github-stats/blob/master/generated/overview.svg), ![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](https://github.com/SPABOI/github-stats/blob/master/generated/languages.svg)
+[![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](http://github-readme-streak-stats.herokuapp.com?user=SPABOI&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 ___________________________________________________________________________________________________________________________________________________________________________
 <!---
 SPABOI/SPABOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
