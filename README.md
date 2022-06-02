@@ -14,9 +14,6 @@ ________________________________________________________________________________
   <img src="https://github.com/SPABOI/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://github.com/SPABOI/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="40" height="40"/>
  <img src="https://github.com/SPABOI/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/> 
-  <img src="https://github.com/SPABOI/devicon/blob/master/icons/apple/apple-original.svg" title="iPhone" alt="iPhone" width="40" height="40"/>
   <img src="https://github.com/SPABOI/devicon/blob/master/icons/windows8/windows8-original.svg" title="iPhone" alt="iPhone" width="40" height="40"/>
- <img src="" title="iPhone" alt="iPhone" width="40" height="40"/>
- 
        </div>
 <hr style="border:2px solid gray"> </hr>
