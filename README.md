@@ -19,5 +19,4 @@ ________________________________________________________________________________
 <hr style="border:2px solid gray"> </hr>
 
 # Certifications 🎗️:
-![comptia-it-fundamentals-itf-certification](https://user-images.githubusercontent.com/95515701/205505492-c633d6d9-11c8-45c0-ba46-7329b133b06b.png)
-<hr style="border:2px solid grey"> </hr>
+### 1. Comptia ITF+ Fundamentals. (https://www.credly.com/badges/8ef0f71b-c556-4db8-882a-112ad0865c62/public_url)
