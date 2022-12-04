@@ -17,3 +17,7 @@ ________________________________________________________________________________
   <img src="https://github.com/SPABOI/devicon/blob/master/icons/windows8/windows8-original.svg" title="iPhone" alt="iPhone" width="40" height="40"/>
        </div>
 <hr style="border:2px solid gray"> </hr>
+
+# Certifications 🎗️:
+![comptia-it-fundamentals-itf-certification](https://user-images.githubusercontent.com/95515701/205505492-c633d6d9-11c8-45c0-ba46-7329b133b06b.png)
+<hr style="border:2px solid grey"> </hr>
