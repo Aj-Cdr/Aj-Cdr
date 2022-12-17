@@ -1,6 +1,11 @@
 ____________________________________________________________________________________________________________________________________________________________________________
  # Hi I'm Ajay
- #### - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 🌱 I’m currently learning JavaScript, HTML, CSS, React Native... 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS) ☁ Built a Weather App Using React Native - beta works - optomized: false
+ #### - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 🌱
+ #### I’m currently learning JavaScript, HTML, CSS, React Native... 
+ #### 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 
+ #### 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 
+ #### 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks 
+ #### 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
 ____________________________________________________________________________________________________________________________________________________________________________
 # Languages And Tools:
  <div>
