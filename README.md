@@ -1,11 +1,6 @@
 ____________________________________________________________________________________________________________________________________________________________________________
  # Hi I'm Ajay
- #### - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 🌱
- #### I’m currently learning JavaScript, HTML, CSS, React Native... 
- #### 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 
- #### 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 
- #### 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks 
- #### 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
+ #### - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 🌱 I’m currently learning JavaScript, HTML, CSS, React Native... 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
 ____________________________________________________________________________________________________________________________________________________________________________
 # Languages And Tools:
  <div>
@@ -24,4 +19,4 @@ ________________________________________________________________________________
 <hr style="border:2px solid gray"> </hr>
 
 # Certifications 🎗️:
-### 1. Comptia ITF+ Fundamentals. (https://www.credly.com/badges/8ef0f71b-c556-4db8-882a-112ad0865c62/public_url)
+#### 1. Comptia ITF+ Fundamentals. (https://www.credly.com/badges/8ef0f71b-c556-4db8-882a-112ad0865c62/public_url)
