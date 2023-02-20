@@ -1,6 +1,6 @@
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<img width="100%" height="300px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png">
+<img width="100%" height="150px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png">
 <h4 align="center"><strong>We didn't receive a proper request from your browser.</strong></h4>
 <h4 align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</h4>
 <h4 align="center">
