@@ -33,5 +33,5 @@
 
 # Certifications 🎗️:
 
-#### 1. Comptia ITF+ Fundamentals. (https://www.credly.com/badges/8ef0f71b-c556-4db8-882a-112ad0865c62/public_url)
+#### 1. Comptia ITF+ Fundamentals: https://www.credly.com/badges/8ef0f71b-c556-4db8-882a-112ad0865c62/public_url
 #### 2. Google IT Professional Certificate (2023): https://www.credly.com/badges/4924c16a-9b2b-4e17-8ccc-a2d0209b7b36/public_url
