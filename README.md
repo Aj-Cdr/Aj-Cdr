@@ -1,6 +1,5 @@
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<img width="100%" height="150px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png">
 <h4 align="center"><strong>We didn't receive a proper request from your browser.</strong></h4>
 <h4 align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</h4>
 <h4 align="center">
@@ -14,7 +13,12 @@
 <hr>
 
 # Hi I'm Ajay
-#### - 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 🌱 I’m currently learning JavaScript, HTML, CSS, React Native... 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 🤗 I love to hang out working on projects... mod and tweak stuff, find hacks 🐍 First GitHub Project - Snake Game (JavaScript, HTML, CSS)
+* 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 
+* 🌱 I’m currently learning JavaScript, HTML, CSS, React Native... 
+* 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 
+* 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 
+* 🤗 I love to hang out working on projects... mod and tweak stuf... 
+* 🐍 My First GitHub Project - Snake Game (JavaScript, HTML, CSS)...
 # Languages And Tools:
  <div>
   <img src="https://github.com/SPABOI/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
