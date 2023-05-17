@@ -1,23 +1,19 @@
-<p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
-<h4 align="center"><strong>We didn't receive a proper request from your browser.</strong></h4>
-<h4 align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</h4>
-<h4 align="center">
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact Support</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">GitHub Status</a> —
-	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">@githubstatus</a>
-</h4>
-<p></p>
-<p></p>
-</p>
-<hr style="border:2px solid gray"> </hr>
+# 💫About Me :
+#### 👀 I’m interested in Developing & Coding Apps, Games Websites. 
+#### 🌱 I’m currently learning JavaScript, HTML, CSS, React Native, Java, Python. 
+#### 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN.
+#### 📫 How to reach me @ Discord (Username Wi-Fi#5333). 
+#### 🤗 I love to hang out working on projects... mod and tweak stuf. 
+#### 🐍 My First GitHub Project - Snake Game (JavaScript, HTML, CSS).
+#### 📚 Currently worked on my portfolio. 
+#### 🕗 Will keep you updated!
+<hr>
 
-# Hi I'm Ajay 👋
-* 👀 I’m interested in Developing & Coding Apps, Games Websites, #GAMER, #TECH ... 
-* 🌱 I’m currently learning JavaScript, HTML, CSS, React Native... 
-* 💞️ I’m looking to collaborate on Game Dev, App Dev, Websites, Hang out and Have FUN... 
-* 📫 How to reach me @ Discord (Username Wi-Fi#5333)... 
-* 🤗 I love to hang out working on projects... mod and tweak stuf... 
-* 🐍 My First GitHub Project - Snake Game (JavaScript, HTML, CSS)...
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<hr>
 
-<hr style="border:2px solid gray"> </hr>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Aj-Cdr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aj-Cdr&theme=dark&hide_border=true)
+<hr>
