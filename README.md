@@ -14,6 +14,5 @@
 <hr>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Aj-Cdr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aj-Cdr&theme=dark&hide_border=true)
 <hr>
