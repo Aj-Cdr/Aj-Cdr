@@ -28,3 +28,5 @@
 ## `👀 Projects`
 
 [Jokes-GPT](https://aj-cdr.github.io/Jokes-GPT/)
+[Educate: View on Mobile Pls](https://educate.flutterflow.app/)
+
