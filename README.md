@@ -12,7 +12,7 @@
 ## `❤ Social`
 
 - 💼 &nbsp; [LinkedIn &rarr;](https://www.linkedin.com/in/ajay-sathish-preetha/)
-- 🔗 &nbsp; [Website &rarr;](https://aj-cdr.github.io/Ajay-Portfolio/)
+- 🔗 &nbsp; [Website &rarr;](https://ajay.framer.ai/)
 - 📖 &nbsp; [Blog &rarr;](https://retro.hashnode.dev/)
 - 🧑‍🤝‍🧑 &nbsp; [Discord &rarr;](https://discordid.netlify.app/?id=805285908563755038)
 - 😻 &nbsp; [GitHub &rarr;](https://github.com/Aj-Cdr)
